@@ -1,8 +1,8 @@
 {
-  "name": "name",
+  "name": "guli",
   "version": "1.0.0",
-  "description": "description",
-  "author": "author",
+  "description": "谷粒学院前台网站",
+  "author": "lisensen",
   "private": true,
   "scripts": {
     "dev": "nuxt",
@@ -13,6 +13,7 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
+    "axios": "^0.21.0",
     "nuxt": "^2.0.0",
     "vue-awesome-swiper": "^3.1.3"
   },
